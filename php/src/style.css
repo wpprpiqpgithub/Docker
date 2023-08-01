@@ -1,0 +1,41 @@
+#profile{
+    font-size: 3rem;
+}
+
+#textarea{
+    resize: none;
+}
+
+#link{
+    width: 160px;
+    height: 160px;
+    text-decoration: none;
+    position: absolute;
+    right: 7rem;
+    top: 7rem;
+    border: 5px solid #333;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 160px;
+}
+
+#form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -150%);
+}
+
+#warning{
+    color: red;
+}
+
+#input{
+    margin-bottom: 2rem;
+}
+
+#search{
+    position: absolute;
+    top: 10%;
+    right: 10%;
+}
