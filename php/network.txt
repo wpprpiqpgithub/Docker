@@ -1,1 +1,3 @@
-
+$dsn = 'mysql:dbname=id21047826_wpprpiqpdb;host=localhost;';
+$user = 'id21047826_wpprpiqphost';
+$password = '20040810Web;';
